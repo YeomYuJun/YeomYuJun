@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Profile" />
 <!--
 **YeomYuJun/YeomYuJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
